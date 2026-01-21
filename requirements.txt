@@ -1,4 +1,6 @@
+uvicorn
 python-telegram-bot==20.4
 g4f
 aiohttp
 nest_asyncio
+
